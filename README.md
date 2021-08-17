@@ -11,7 +11,7 @@ Agriculture is inherently vulnerable to a changing climate. Climate-smart manage
 capacity and potentially mitigate climate change impacts. We aim to inform agricultural and decision support models through analyzing historical 
 climate variability, developing future climate scenarios, and exploring the relationship between agricultural systems and local climate.
 
-![US Warm Hole](/desktop/US_Warm_Hole.jpeg)
+![US Warm Hole](/US_Warm_Hole.jpeg)
 
 ```markdown
 Syntax highlighted code block
