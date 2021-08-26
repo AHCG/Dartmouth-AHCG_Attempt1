@@ -1,65 +1,43 @@
-url: https://ahcg.github.io/Dartmouth-AHCG/
-theme: agency
+# Dartmouth-AHCG
+The Applied Hydroclimatology Group at Dartmouth explores the physical mechanisms and impacts of climate variability and change with a focus on climate-agriculture interactions, the changing climate of the Northeastern United States, and the sustainability of irrigated agriculture.
 
-# Site settings
-title: Dartmouth Hydroclimatology
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+## About
+The Applied Hydroclimatology Group at Dartmouth explores the physical mechanisms and impacts of climate variability and change with a 
+focus on climate-agriculture interactions, the changing climate of the Northeastern United States, and the sustainability of irrigated agriculture.
 
+### Research
 
-# Team names, titles and social links
-people:
-- name: Jonathan Winter
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+Agriculture is inherently vulnerable to a changing climate. Climate-smart management decisions have the ability to improve agriculture’s adaptive 
+capacity and potentially mitigate climate change impacts. We aim to inform agricultural and decision support models through analyzing historical 
+climate variability, developing future climate scenarios, and exploring the relationship between agricultural systems and local climate.
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+![US Warm Hole](/US_Warm_Hole.jpeg)
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+```markdown
+Syntax highlighted code block
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+# Header 1
+## Header 2
+### Header 3
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+- Bulleted
+- List
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AHCG/Dartmouth-AHCG/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
